@@ -35,7 +35,7 @@ let s:color_13 = g:hellwal_13
 let s:color_14 = g:hellwal_14
 let s:color_15 = g:hellwal_15
 
-set background=dark
+set background=light
 
 hi clear
 
