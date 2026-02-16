@@ -73,7 +73,7 @@ execute "hi StatusLineNC guifg=" . s:color_8 . " guibg=" . s:border . " gui=bold
 execute "hi Title guifg=" . s:color_4 . " gui=bold"
 execute "hi Underlined guifg=" . s:color_6 . " gui=underline"
 execute "hi VertSplit guifg=" . s:color_8 . " guibg=" . s:bg
-execute "hi Visual guibg=" . s:color_11
+execute "hi Visual guibg=" . s:fg
 execute "hi WarningMsg guifg=" . s:color_11 . " guibg=NONE gui=bold"
 execute "hi WildMenu guifg=" . s:color_7 . " guibg=" . s:color_3 . " gui=bold"
 
